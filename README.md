@@ -1,4 +1,3 @@
-
 name: Work Stats Readme
 
 on:

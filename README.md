@@ -60,7 +60,7 @@ I am 16 years and I android developer from Earth 💻 with experience in android
 
 ## ⚒️ Wakatime:
 
- <figure><embed src="https://wakatime.com/share/@M1nex_off/ebe7ded6-a62b-4f7c-b916-2b123a4bc131.svg"></embed></figure>
+ <embed src="https://wakatime.com/share/@M1nex_off/ebe7ded6-a62b-4f7c-b916-2b123a4bc131.svg"></embed>
 
 
 ## 🥇️️️️ wakatime last 30 days result:

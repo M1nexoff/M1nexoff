@@ -17,17 +17,11 @@
 <br/>
 
 ## 🤝 Let's Connect
-<div align="start">
-  <a href="mailto:aiskandarxojayev@://gmail.com,">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
-  </a>  
-  <a href="https://t.me/M1nexofficial">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="margin-bottom: 5px;" />
-  </a> 
-</div>  
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aiskandarxojayev@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/M1nexofficial)
 
 <br/>
-
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">

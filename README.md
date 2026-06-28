@@ -2,10 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi!+👋;+I'm+M1nex!;Mobile+Developer;" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/M1nex/count.svg" alt="Profile Views">
-</p>
-
 ---
 
 ## 💫 About Me
@@ -22,7 +18,7 @@
 
 ## 🤝 Let's Connect
 <div align="start">
-  <a href="mailto:aiskandarxojayev@gmail.com">
+  <a href="mailto:aiskandarxojayev@://gmail.com,">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
   </a>  
   <a href="https://t.me/M1nexofficial">

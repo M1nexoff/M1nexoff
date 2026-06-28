@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi!+👋;+I'm+M1nex!;Mobile+Developer;" alt="Typing SVG" />
 </h1>
 
----
-
 ## 💫 About Me
 <img align="right" width="130" src="https://i.pinimg.com/originals/d0/19/72/d019725ef4da31a294694f31a3702297.gif" alt="Coding GIF" />
 
@@ -18,15 +16,8 @@
 
 ## 🤝 Let's Connect
 
-<div align="start">
-  <a href="mailto:aiskandarxojayev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/M1nexofficial">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=aiskandarxojayev@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/M1nexofficial)
 
 <br/>
 

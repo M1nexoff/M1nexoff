@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 171 52" width="171" height="52" role="img" aria-label="stack">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="420" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#6d28d9"/><stop offset="0.33" stop-color="#0369a1"/>
+      <stop offset="0.66" stop-color="#047857"/><stop offset="1" stop-color="#6d28d9"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="420 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="type"><rect x="54.0" y="0" height="52" width="0">
+      <animate attributeName="width" values="0;0;18;36;54;72;90;72;54;36;18;0" keyTimes="0.00000;0.01967;0.02426;0.02885;0.03344;0.03803;0.04262;0.96197;0.96328;0.96459;0.96590;0.96721" dur="15.250s" calcMode="discrete" repeatCount="indefinite"/>
+    </rect></clipPath>
+  </defs>
+  <g font-family="'JetBrains Mono','Cascadia Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="30" font-weight="700">
+    <text x="0" y="38" fill="#8c959f" textLength="54.0" lengthAdjust="spacing">//</text>
+    <text x="54.0" y="38" fill="url(#g)" textLength="90.0" lengthAdjust="spacing" clip-path="url(#type)">stack</text>
+  </g>
+  <rect y="14" width="9.9" height="28" rx="2" fill="#0369a1">
+    <animate attributeName="x" values="57;57;75;93;111;129;147;129;111;93;75;57" keyTimes="0.00000;0.01967;0.02426;0.02885;0.03344;0.03803;0.04262;0.96197;0.96328;0.96459;0.96590;0.96721" dur="15.250s" calcMode="discrete" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0" dur="1.1s" calcMode="discrete" repeatCount="indefinite"/>
+  </rect>
+</svg>
